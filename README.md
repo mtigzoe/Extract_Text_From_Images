@@ -1,1 +1,3 @@
-# Extract_Text_From_Images
+https://github.com/UB-Mannheim/tesseract/wiki 
+
+Install Tesseract for Windows 
